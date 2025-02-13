@@ -1,2 +1,0 @@
-# AQI-Prediction
-oke nha
